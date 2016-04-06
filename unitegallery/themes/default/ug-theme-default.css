@@ -1,0 +1,29 @@
+
+
+.ug-gallery-wrapper .ug-theme-panel{
+	position:absolute;
+	xbackground-color:red;
+	z-index:11;		
+}
+
+.ug-theme-panel .ug-strip-panel{
+	z-index:6;
+}
+
+/* --- fullscreen button -- */
+
+.ug-theme-default .ug-default-button-fullscreen{
+	position:absolute;
+	background-image:url('images/button_fullscreen.png');
+    width:53px;
+    height:50px;
+    cursor:pointer;
+	background-position:0px 0px;
+	z-index:3;
+}
+
+.ug-theme-default .ug-default-button-fullscreen.ug-button-hover{
+	background-position:0px -50px;	
+}
+
+.ug-

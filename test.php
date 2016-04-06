@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Тест</title>
+</head>
+<body>
+	
+</body>
+</html>
+
+<?php
+
+echo __DIR__ . '<br />';
+
+phpinfo();
+
